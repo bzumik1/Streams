@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7777c7a-6e8f-4798-a5ab-5467c8c3a496" name="Default Changelist" comment="" />
+    <list default="true" id="e7777c7a-6e8f-4798-a5ab-5467c8c3a496" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1UbXf3qHoNqVddT2sW43Tjnu0aB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -40,8 +47,8 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="Streams" />
       <extension name="coverage">
         <pattern>
@@ -55,7 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -82,18 +89,34 @@
       <option name="presentableId" value="Default" />
       <updated>1575626368623</updated>
       <workItem from="1575626370165" duration="825000" />
-      <workItem from="1575633455904" duration="11328000" />
+      <workItem from="1575633455904" duration="11702000" />
     </task>
+    <task id="LOCAL-00001" summary="start">
+      <created>1575649629292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575649629292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="675" y="419" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575639927687">
+    <state x="675" y="419" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575649744063">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="675" y="419" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575639927687" />
+    <state x="675" y="419" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575649744063" />
+    <state x="521" y="106" key="CommitChangelistDialog2" timestamp="1575649626968">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="521" y="106" key="CommitChangelistDialog2/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575649626968" />
     <state width="1865" height="309" key="GridCell.Tab.0.bottom" timestamp="1575649509578">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

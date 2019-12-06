@@ -2,7 +2,6 @@ package main;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
 
 @Data //requiredArgsConstructor, getters, setters, toString, EqualsAndHashCode
 @AllArgsConstructor
