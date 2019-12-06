@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7777c7a-6e8f-4798-a5ab-5467c8c3a496" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbXf3qHoNqVddT2sW43Tjnu0aB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.main" />
+      <module name="Streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7777c7a-6e8f-4798-a5ab-5467c8c3a496" name="Default Changelist" comment="" />
+      <created>1575626368623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575626368623</updated>
+      <workItem from="1575626370165" duration="825000" />
+      <workItem from="1575633455904" duration="11328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="419" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575639927687">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="675" y="419" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575639927687" />
+    <state width="1865" height="309" key="GridCell.Tab.0.bottom" timestamp="1575649509578">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="309" key="GridCell.Tab.0.bottom/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575649509578" />
+    <state width="1865" height="309" key="GridCell.Tab.0.center" timestamp="1575649509578">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="309" key="GridCell.Tab.0.center/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575649509578" />
+    <state width="1865" height="309" key="GridCell.Tab.0.left" timestamp="1575649509578">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="309" key="GridCell.Tab.0.left/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575649509578" />
+    <state width="1865" height="309" key="GridCell.Tab.0.right" timestamp="1575649509578">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1865" height="309" key="GridCell.Tab.0.right/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575649509578" />
+    <state x="312" y="49" key="SettingsEditor" timestamp="1575641012420">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="312" y="49" key="SettingsEditor/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575641012420" />
+    <state x="2354" y="428" key="com.intellij.ide.util.TipDialog" timestamp="1575633506790">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2354" y="428" key="com.intellij.ide.util.TipDialog/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1575633506790" />
+    <state x="2067" y="-18" width="1539" height="1154" maximized="true" key="dock-window-1" timestamp="1575634326297">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2067" y="-18" width="1539" height="1154" maximized="true" key="dock-window-1/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575634326297" />
+    <state x="2170" y="0" width="1044" height="1154" maximized="true" key="dock-window-2" timestamp="1575639749721">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2170" y="0" width="1044" height="1154" maximized="true" key="dock-window-2/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575639749721" />
+    <state x="230" y="215" key="new project wizard" timestamp="1575641566894">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="230" y="215" key="new project wizard/3840.111.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1575641566894" />
+  </component>
+</project>
